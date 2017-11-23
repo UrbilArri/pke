@@ -1,1 +1,3 @@
-<?php echo('kaixo'); ?>
+<?php echo('kaixo');
+echo('kaixo');
+ ?>
